@@ -6,7 +6,7 @@
 </template>
 
 <script>
-// @ is an alias to /src
+// @ is an alias to /src  https://github.com/xiaoye071/ebook-project.git
 import HelloWorld from "@/components/HelloWorld.vue";
 
 export default {
